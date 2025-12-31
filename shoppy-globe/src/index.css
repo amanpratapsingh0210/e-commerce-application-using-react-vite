@@ -122,3 +122,16 @@ button {
 }
 
 button:hover { background-color: #0056b3; }
+
+.cart-item {
+  color: black;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: white;
+  margin: 10px 0;
+  padding: 10px;
+}
+
+.checkout-form { display: flex; flex-direction: column; gap: 10px; max-width: 400px; margin: 20px 0; }
+.checkout-form input { padding: 10px; }
