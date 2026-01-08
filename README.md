@@ -7,3 +7,6 @@
 
 ## Git Repo link
 https://github.com/amanpratapsingh0210/e-commerce-application-using-react-vite
+
+## Screenshots in the screenshot.docx
+./screenshot.docx
